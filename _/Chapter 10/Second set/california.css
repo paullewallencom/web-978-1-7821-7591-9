@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+californiapeople {
+	background-color: #FFDEAD;
+}
+name, first {
+	color:teal;
+	font-size:20px;
+	margin-top:30px;
+}
+name {
+margin-left:25px;	
+	
+}
+profession, born
+{
+	display:block;
+	margin-left:50px;
+	font-size:16px;
+	font-family:Baskerville, "Times New Roman",  serif;
+	color:blue;
+}

@@ -1,0 +1,39 @@
+$californiapeople = '[
+
+	 {
+		"name":"Adams",
+		 "first":"Ansel",
+		 "profession":"photographer",
+		 "born":"San Francisco"
+		
+	},
+	 {
+		"name":"Muir",
+		 "first":"John",
+		 "profession":"naturalist",
+		 "born":"Scotland"
+		
+	},
+	 {
+		"name":"Schwarzenegger",
+		 "first":"Arnold",
+		 "profession":"governator",
+		 "born":"Germany"
+		
+	},
+	 {
+		"name":"Rowell",
+		 "first":"Galen",
+		 "profession":"photographer",
+		 "born":"Oakland CA"
+		
+	},
+	 {
+		"name":"Wellens",
+		 "first":"Paul",
+		 "profession":"author",
+		 "born":"Belgium"
+		
+	}
+  
+]';

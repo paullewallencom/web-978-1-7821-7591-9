@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="california.css"?>
+<californiapeople>
+	<person id="1">
+		<name>Adams</name>
+		<first>Ansel</first>
+		<profession>photographer</profession>
+		<born>San Francisco</born>
+		<photograph/>
+	</person>
+	<person>
+		<name>Muir</name
+		<first>John</first>
+		<profession>photographer</profession>
+		<born>Scotland</born>
+	</person>
+	<person>
+		<name>Schwarzenegger</name>
+		<first>Arnold</first>
+		<profession>governator</profession>
+		<born>Germany</born>
+	</person>
+	<person>
+		<name>Rowell</name>
+		<first>Galen</first>
+		<profession>photographer</profession>
+		<born>Oakland CA</born>
+	</person>
+	<person>
+		<name>Wellens</name>
+		<first>Paul</first>
+		<profession>author</profession>
+		<born>Antwerp            Belgium</born>
+	</person>
+</californiapeople>

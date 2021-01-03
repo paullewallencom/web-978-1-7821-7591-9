@@ -1,0 +1,26 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="photocollection">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:string" name="title"/>
+        <xs:element type="xs:string" name="overview"/>
+        <xs:element name="photo" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="scaption"/>
+              <xs:element type="xs:string" name="caption"/>
+              <xs:element type="xs:string" name="id"/>
+              <xs:element type="xs:string" name="story"/>
+              <xs:element type="xs:string" name="thumbnail" minOccurs="0"/>
+              <xs:element type="xs:string" name="smallimg"/>
+              <xs:element type="xs:string" name="largeimg"/>
+              <xs:element type="xs:string" name="photoshop"/>
+              <xs:element type="xs:string" name="date"/>
+              <xs:element type="xs:string" name="camera"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,12 @@
+[
+{"name":"Adams","first":"Ansel","profession":"photographer","born":"SanFrancisco"},
+{"name":"Muir","first":"John","profession":"naturalist","born":"Scotland"},
+{"name":"Schwarzenegger","first":"Arnold","profession":"governator","born":"Germany"},
+{"name":"Wellens","first":"Paul","profession":"author","born":"Belgium"}
+]
+Array ( 
+[0] => Array ( [name] => Adams [first] => Ansel [profession] => photographer [born] => San Francisco ) 
+[1] => Array ( [name] => Muir [first] => John [profession] => naturalist [born] => Scotland ) 
+[2] => Array ( [name] => Schwarzenegger [first] => Arnold [profession] => governator [born] => Germany ) 
+[3] => Array ( [name] => Rowell [first] => Galen [profession] => photographer [born] => Oakland CA ) 
+[4] => Array ( [name] => Wellens [first] => Paul [profession] => author [born] => Belgium ) ) 

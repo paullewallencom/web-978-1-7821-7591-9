@@ -1,0 +1,32 @@
+h1 {
+  color: #999999;
+}
+h2 {
+  color: #aaaaaa;
+}
+#header {
+  color: #eeeeee;
+  background-color: teal;
+}
+#header h1 {
+  color: #eeeeee;
+}
+#footer {
+  color: #eeeeee;
+  background-color: teal;
+}
+#practical {
+  background-color: #333333;
+  color: #eeeeee;
+}
+#practical h5 {
+  color: #ffdead;
+}
+#practical li {
+  font-size: 0.8em;
+  list-style-type: none;
+}
+#varicontent .contentblock {
+  float: right;
+  margin: 15px;
+}

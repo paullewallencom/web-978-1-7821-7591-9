@@ -1,0 +1,49 @@
+@charset "utf-8";
+body {
+background-color:#FFDEAD;
+margin-top:10px;
+color: #FFDEAD;
+}
+div#overview h1
+{
+	text-align:center;
+	
+}
+div#overview 
+{
+	color:teal;
+	
+}
+div.simage img
+{
+border:3px white solid;	
+align:center;	
+}
+#mysite
+{
+margin:auto;
+width:980px;
+}
+div.smallmat {
+	
+	width:300px;
+	float: left;
+}
+div.scaption {
+	
+	padding:5px;
+	color:teal;
+}
+div.story {
+	width:500px;
+	float: left;
+	color:teal;
+}
+
+
+div.storybook {
+	width:850px;
+	float:left;
+	margin:20px;
+}
+

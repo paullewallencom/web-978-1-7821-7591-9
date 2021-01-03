@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,td,th {
+	font-family:  Adobe Garamond Pro, Georgia,  Times New Roman, serif;
+	color: #FFFF80;
+}
+body {
+	background-color: #6f261c;
+}
+.smallmat {
+	margin: 10px;
+	float: left;
+	height: 190px;
+	width: 220px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+.smallpmat {
+	margin: 10px;
+	float: left;
+	height: 190px;
+	width: 240px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+.scaption {
+	font-family: MyriadPro, Trebuchet MS, Myriad Web Pro, Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: italic;
+	line-height: 1em;
+	font-weight: 400;
+	/*color: #DFCF6A; */
+	color:#FFFFFF;
+	text-align: center;
+}
+.sphoto {
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	border: medium solid #FFFFFF;
+	position: static;
+	left: 10px;
+}
+.spphoto {
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	border: medium solid #FFFFFF;
+	position: static;
+	left: 10px;
+}
+
+.ssqphoto {
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	margin-left: 40px;
+	border: medium solid #FFFFFF;
+	position: static;
+	left: 10px;
+}
+.rmat {
+	float: left;
+	height: 375px;
+	width: 475px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 30px;
+}
+.rcaption {
+	font-family: Myriad  Pro, Trebuchet MS, Myriad Web Pro, Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: italic;
+	font-weight: 400;
+	color:#FFFFFF;
+	text-align: center;
+}
+.rstory {
+	font-family: Myriad Web Pro, Trebuchet MS, Myriad Pro, Verdana, Arial, Helvetica, sans-serif;
+	font-size:medium;
+	/* font-style: italic; */
+	font-weight:400;
+	color: #FFFF80;
+	margin: 0px;
+	float: left;
+	height: 375px;
+	width: 350px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 30px;
+}
+.rphoto {
+	border: thick solid #FFFFFF;
+	position: static;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	left: 10px;
+}
+.sqphoto {
+	border: thick solid #FFFFFF;
+	position: static;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	left: 15px;
+}
+.sqmat {
+	float: left;
+	height: 425px;
+	width: 425px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 30px;
+}
+.sqcaption {
+	font-family: Myriad Web Pro, Trebuchet MS, Myriad Pro, Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: italic;
+	font-weight: bold;
+	color:#FFFFFF;
+	text-align: center;
+}
+.sqstory {
+	font-family: Myriad Web Pro, Trebuchet MS, Myriad Pro, Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: regular;
+	font-weight:400;
+	color: #FFFF80;
+	margin: 0px;
+	float: left;
+	height: 425px;
+	width: 425px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 30px;
+}
+.sqpage {
+}
+.galleryoverview {
+	/*font-family:  Adobe Garamond Pro, Georgia, Times New Roman,   serif; */
+	font-family: Myriad Web Pro, Trebuchet MS, Myriad Pro, Arial, Verdana,  Helvetica, sans-serif;
+	font-size: large;
+	font-style: normal;
+	font-weight:normal;
+	color: #FFFF80;
+	text-align: justify;
+	margin-top: 10px;
+	margin-right: 100px;
+	margin-bottom: 20px;
+	margin-left: 30px;
+}
+.gallerytitle {
+	font-family: Adobe Garamond Pro, Georgia, Times New Roman,   serif;
+	font-size: x-large;
+	font-style:normal;
+	font-weight:normal;
+	color: #FFFF80;
+	text-align:center;
+	
+}
